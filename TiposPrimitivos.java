@@ -17,7 +17,7 @@ public class TiposPrimitivos {
      int populacaoCidade = 500000; // Tipo mais comum para números
      long populacaoMundial = 8000000000L; // Necessário 'L' para valores longos
      
-     float altura = 1.75f; //Necessário 'f' no rinal para indicar float
+     float altura = 1.75f; //Necessário 'f' no final para indicar float
      double peso = 72.5; // Mais preciso que float
      
      char inicial = 'J'; // Armazena um único caractere
