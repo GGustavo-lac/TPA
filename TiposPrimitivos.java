@@ -13,7 +13,7 @@ public class TiposPrimitivos {
  public static void main (String [] args) {
      // Declaração de variáveis primitivas
      byte anosnaempresa = 5; // Suporta números pequenos (-128 a 127)
-     short Datanascimento= 02/05/2003; // Suporta valores um pouco maiores (-32.76)
+     short Datanascimento= 2003; // Suporta valores um pouco maiores (-32.76)
      int populacaopaulista = 12000000; // Tipo mais comum para números
      long populacaoGlobal = 8000000000L; // Necessário 'L' para valores longos
      
