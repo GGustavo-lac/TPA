@@ -12,8 +12,8 @@ package com.mycompany.tiposprimitivos;
 public class TiposPrimitivos {
  public static void main (String [] args) {
      // Declaração de variáveis primitivas
-     byte idade = 22; // Suporta números pequenos (-128 a 127)
-     short ano = 2025; // Suporta valores um pouco maiores (-32.76)
+     byte anosnaempresa = 5; // Suporta números pequenos (-128 a 127)
+     short Datanascimento= 02/05/2003; // Suporta valores um pouco maiores (-32.76)
      int populacaopaulista = 12000000; // Tipo mais comum para números
      long populacaoGlobal = 8000000000L; // Necessário 'L' para valores longos
      
@@ -24,13 +24,13 @@ public class TiposPrimitivos {
      boolean ativo = true; // Armazena verdadeiro ou falso
      
      //Exibição dos valores
-     System.out.println ("Idade: " + idade);
-     System.out.println("Ano:"+ ano);
+     System.out.println ("Anos na empresa: " + anosnaempresa);
+     System.out.println("Data de nascimento:"+ Datanascimento );
      System.out.println("População de São paulo:" + populacaopaulista);
      System.out.println ("População Global:"+ populacaoGlobal);
      System.out.println ("Altura:"+ altura + "metros");
      System.out.println ("Peso:"+ peso + "kilogramas");
-     System.out.println ("Letra inicial:" + letrainicial);
+     System.out.println ("Letra inicial do nome:" + letrainicial);
      System.out.println("Está ativo?" + ativo);
      
      
