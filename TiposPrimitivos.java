@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.tiposprimitivos;
-/** Primeiro projeto java no laboratÃ³rio 111
+/** Primeiro projeto java no laboratorio 111
  */
 /**
  *
