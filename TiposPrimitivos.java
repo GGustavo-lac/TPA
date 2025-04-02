@@ -23,7 +23,7 @@ public class TiposPrimitivos {
      char letrainicial = 'g'; // Armazena um único caractere
      boolean ativo = true; // Armazena verdadeiro ou falso
      
-     //ExibiÃ§Ã£o dos valores
+     //Exibição dos valores
      System.out.println ("Idade: " + idade);
      System.out.println("Ano:"+ ano);
      System.out.println("População de São paulo:" + populacaopaulista);
