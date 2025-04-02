@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.tiposprimitivos;
-/** Primeiro projeto java no laboratório 111
+/** Primeiro projeto java no laboratÃ³rio 111
  */
 /**
  *
@@ -12,28 +12,29 @@ package com.mycompany.tiposprimitivos;
 public class TiposPrimitivos {
  public static void main (String [] args) {
      // Declaração de variáveis primitivas
-     byte idade = 25; // Suporta números pequenos (-128 a 127)
+     byte idade = 22; // Suporta números pequenos (-128 a 127)
      short ano = 2025; // Suporta valores um pouco maiores (-32.76)
-     int populacaoCidade = 500000; // Tipo mais comum para números
-     long populacaoMundial = 8000000000L; // Necessário 'L' para valores longos
+     int populacaopaulista = 12000000; // Tipo mais comum para números
+     long populacaoGlobal = 8000000000L; // Necessário 'L' para valores longos
      
-     float altura = 1.75f; //Necessário 'f' no final para indicar float
-     double peso = 72.5; // Mais preciso que float
+     float altura = 1.80f; //Necessário 'f' no final para indicar float
+     double peso = 80.0; // Mais preciso que float
      
-     char inicial = 'J'; // Armazena um único caractere
+     char letrainicial = 'g'; // Armazena um único caractere
      boolean ativo = true; // Armazena verdadeiro ou falso
      
-     //Exibição dos valores
+     //ExibiÃ§Ã£o dos valores
      System.out.println ("Idade: " + idade);
      System.out.println("Ano:"+ ano);
-     System.out.println("População da cidade:" + populacaoCidade);
-     System.out.println ("População mundial:"+ populacaoMundial);
-     System.out.println ("Altura:"+ altura + "m");
-     System.out.println ("Peso:"+ peso + "kg");
-     System.out.println ("Inicial do nome:" + inicial);
+     System.out.println("População de São paulo:" + populacaopaulista);
+     System.out.println ("População Global:"+ populacaoGlobal);
+     System.out.println ("Altura:"+ altura + "metros");
+     System.out.println ("Peso:"+ peso + "kilogramas");
+     System.out.println ("Letra inicial:" + letrainicial);
      System.out.println("Está ativo?" + ativo);
      
      
  }
 }
+ 
  
