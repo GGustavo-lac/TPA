@@ -6,7 +6,7 @@ package operacoesmatematicas;
 
 /**
  *
- * Algoritmos de operações matematicas feitas por gustavo lacerda
+ * Algoritmos de operações matemáticas feitas por gustavo lacerda
  */
 public class OperacoesMatematicas {
 
