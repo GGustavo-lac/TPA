@@ -12,7 +12,7 @@ public class OperacoesMatematicas {
 
 
     public static void main(String[] args) {
-      //DEfinir dois números
+      //Definir dois números
         double num1 = 15;
        double num2 = 3 ;
       // Fazer operações matemáticas
