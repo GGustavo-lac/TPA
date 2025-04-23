@@ -41,7 +41,7 @@ public class Operacoesmatematicasbylacerda {
         final double pi= 3.14; // valor de pi
         circunferencia_area = pi*(raio*raio); // calculo area da circunferencia
         float n1, n2, n3, n4,n5,n6,n7,n8,n9,n10 ,Media;
-        n1 = 1;
+        n1 = 1; //variaveis
         n2 = 2;
         n3 = 3; 
         n4= 6;
@@ -51,15 +51,7 @@ public class Operacoesmatematicasbylacerda {
         n8 = 9;
         n9 = 3;
         n10 = 4;
-        Media = (n1+n2+n3+n4+n5+n6+n7+n8+n9+n10)/4;
-          
-        
-        
-                
-      
-       
-      
-       
+        Media = (n1+n2+n3+n4+n5+n6+n7+n8+n9+n10)/4;//calculo da media
        //exibir os resultados
        System.out.println("Resultados das operacoes:");
        System.out.println("Soma:" + soma);
@@ -67,12 +59,12 @@ public class Operacoesmatematicasbylacerda {
        System.out.println("Multiplicacao:"+ multiplicacao);
        System.out.println("Divisao:"+ (num2 != 0 ? divisao: "Indefinida (divisão por zero)"));
        System.out.println("Resto da divisao"+ resto);
-         System.out.println("Area do quadrado : " + quadrado_area);
-          System.out.println("Area do retangulo : " + retangulo_area);
-   System.out.println("Area do losango:" + losango_area);
-   System.out.println("Area do triangulo:"+ triangulo_area);
-   System.out.println("Area da circunferencia:"+ circunferencia_area);
-   System.out.println("Media dos valores:"+ Media);
+      System.out.println("Area do quadrado : " + quadrado_area);
+      System.out.println("Area do retangulo : " + retangulo_area);
+      System.out.println("Area do losango:" + losango_area);
+      System.out.println("Area do triangulo:"+ triangulo_area);
+      System.out.println("Area da circunferencia:"+ circunferencia_area);
+      System.out.println("Media dos valores:"+ Media);
    }    
    
 }
