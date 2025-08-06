@@ -6,7 +6,8 @@ No codigo é usado variaveis como double para declarar os valores,Double.parseDo
 <img width="629" height="179" alt="0 3" src="https://github.com/user-attachments/assets/625c1f47-9dd9-4300-bf1b-f768e601889b" />
 <h1>#Resultado</h1>
   No output é pedido os valores 1,2,3,4,5,6 e com os valores aparece por exemplo: se o quinto valor é igual ao primeiro ou se o primeiro é maior ou igual ao segundo.
-<img width="614" height="257" alt="0" src="https://github.com/user-attachments/assets/b59a1638-18c8-4580-bf0f-1fb420da564d" />
+
+  <img width="614" height="257" alt="0" src="https://github.com/user-attachments/assets/b59a1638-18c8-4580-bf0f-1fb420da564d" />
   <img width="653" height="256" alt="1" src="https://github.com/user-attachments/assets/0cfba0fd-6c6e-447d-ba5f-78a6b8804c82" />
 <img width="490" height="220" alt="2" src="https://github.com/user-attachments/assets/2ecdfc9c-a908-465c-813e-d1b98e766d34" />
 <img width="419" height="204" alt="3" src="https://github.com/user-attachments/assets/24a6d1a1-a831-48d6-9946-1a5aab70801f" />
