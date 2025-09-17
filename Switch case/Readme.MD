@@ -47,27 +47,4 @@ Programa com três funcionalidades em sequência:
 
 ---
 
-## 📂 Estrutura do Projeto
 
-```
-TPA/
-└── Switch case/
-    ├── Switchcase.java
-    ├── Switchcase2.java
-    └── prints/
-        ├── switchcase_jogos.png
-        ├── switchcase_semana.png
-        ├── switchcase_frutas.png
-        ├── switchcase2_transporte.png
-        ├── switchcase2_banco.png
-        ├── switchcase2_faixaetaria.png
-```
-
----
-
-## 📝 Notas Finais
-- Todos os valores monetários podem ser alterados facilmente no código.
-- Use `Scanner` para ler entradas do usuário.
-- O loop `do-while` mantém os menus ativos até que o usuário encerre.
-
----
